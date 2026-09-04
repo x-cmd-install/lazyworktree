@@ -1,11 +1,13 @@
 about:
-  description: Easy Git worktree management CLI and TUI for the terminal.
+  description:
+  |
+    Easy Git worktree management CLI and TUI for the terminal.
   license: Apache-2.0
   homepage: https://chmouel.github.io/lazyworktree/
   head: e828c7d
   archived: false
   latestVersion: v1.49.0
-  collectedAt: 2026-09-04T04:19:45Z
+  collectedAt: 2026-09-04T19:24:02Z
 timeline:
   created: 2025-12-28
   lastCommit: 2026-09-01
@@ -16,8 +18,8 @@ popularity:
   fork: 12
   release: 67
   contributor: 8
-  pullRequest: 10
-  issue: 15
+  pullRequest: 80
+  issue: 16
 language:
   Go: 2847030
   Roff: 66074
@@ -27,7 +29,7 @@ language:
   JavaScript: 4348
   Makefile: 1353
   Ruby: 1291
-totalLine: 2978457
+totalBytes: 2978457
 recent:
   last30d:
     since: 2026-08-05
@@ -35,15 +37,23 @@ recent:
     mergedPR: 6
     openPR: 1
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 7
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 16
+    openPR: 1
+    closedIssue: 0
+    openIssue: 2
+    commit: 23
   last90d:
     since: 2026-06-06
     release: 3
     mergedPR: 26
     openPR: 1
     closedIssue: 1
-    openIssue: 1
+    openIssue: 2
     commit: 63
   last180d:
     since: 2026-03-08
@@ -51,7 +61,7 @@ recent:
     mergedPR: 51
     openPR: 1
     closedIssue: 8
-    openIssue: 1
+    openIssue: 2
     commit: 160
   last360d:
     since: 2025-09-09
@@ -59,5 +69,23 @@ recent:
     mergedPR: 70
     openPR: 1
     closedIssue: 14
-    openIssue: 1
+    openIssue: 2
     commit: 1025
+  last720d:
+    since: 2024-09-14
+    release: 67
+    mergedPR: 70
+    openPR: 1
+    closedIssue: 14
+    openIssue: 2
+    commit: 1041
+total:
+  release: 67
+  mergedPR: 70
+  openPR: 1
+  closedIssue: 14
+  openIssue: 2
+  commit: 1041
+---
+---
+
