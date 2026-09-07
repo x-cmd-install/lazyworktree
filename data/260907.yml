@@ -2,13 +2,13 @@ about:
   description: "Easy Git worktree management CLI and TUI for the terminal."
   license: Apache-2.0
   homepage: https://chmouel.github.io/lazyworktree/
-  head: 66d4a8f
+  head: 2cccbef
   archived: false
   latestVersion: "v1.49.0"
-  collectedAt: 2026-09-07T04:22:40Z
+  collectedAt: 2026-09-07T20:03:01Z
 timeline:
   created: 2025-12-28
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-07-21
 popularity:
   star: 290
@@ -16,7 +16,7 @@ popularity:
   fork: 12
   release: 67
   contributor: 9
-  pullRequest: 82
+  pullRequest: 83
   issue: 16
 language:
   Go: 2879629
@@ -32,61 +32,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 9
+    mergedPR: 10
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 8
+    commit: 9
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 19
+    mergedPR: 20
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 22
+    commit: 23
   last90d:
     since: 2026-06-09
     release: 3
-    mergedPR: 28
+    mergedPR: 29
     openPR: 0
     closedIssue: 1
     openIssue: 2
-    commit: 63
+    commit: 64
   last180d:
     since: 2026-03-11
     release: 9
-    mergedPR: 51
+    mergedPR: 52
     openPR: 0
     closedIssue: 8
     openIssue: 2
-    commit: 141
+    commit: 142
   last360d:
     since: 2025-09-12
     release: 67
-    mergedPR: 73
+    mergedPR: 74
     openPR: 0
     closedIssue: 14
     openIssue: 2
-    commit: 1029
+    commit: 1030
   last720d:
     since: 2024-09-17
     release: 67
-    mergedPR: 73
+    mergedPR: 74
     openPR: 0
     closedIssue: 14
     openIssue: 2
-    commit: 1046
+    commit: 1047
 total:
   release: 67
-  mergedPR: 73
+  mergedPR: 74
   openPR: 0
   closedIssue: 14
   openIssue: 2
-  commit: 1046
+  commit: 1047
 ---
 path: /home/runner/.x-repo/github.com/chmouel/lazyworktree
-collectedAt: 2026-09-07T04:22:42Z
+collectedAt: 2026-09-07T20:03:03Z
 loc:
   Go:
     code: 81431
@@ -157,7 +157,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:22:43+00:00
+  collectedAt: 2026-09-07T20:03:04+00:00
   platform:
     darwin/arm64:
       name:  lazyworktree_Darwin_all.tar.gz
