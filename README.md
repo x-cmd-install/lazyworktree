@@ -12,6 +12,18 @@ Easy Git worktree management CLI and TUI for the terminal.
 x install lazyworktree
 ```
 
+## Code insight
+
+Total: **83,963** lines of code across **295** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 81,431 | 4,005 | 11,104 | 284 |
+| Css | 850 | 30 | 170 | 2 |
+| Html | 577 | 0 | 9 | 2 |
+| Sh | 370 | 40 | 91 | 5 |
+| Yaml | 234 | 441 | 51 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/chmouel/lazyworktree>
@@ -23,6 +35,25 @@ x install lazyworktree
 - **Latest**: `v1.49.0` (2026-07-21)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 12
+
+## Popularity
+
+- **Stars**: 293 · **Forks**: 13 · **Open issues**: 16 · **Contributors**: 9
+
+## Totals (cumulative)
+
+- **Releases**: 67 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 2 · **Commits**: 1047
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 8 | 0 | 0 | 1 | 9 |
+| last60d | 2026-07-12 | 1 | 17 | 0 | 0 | 1 | 23 |
+| 90d | 2026-06-12 | 3 | 29 | 0 | 1 | 2 | 64 |
+| last180d | 2026-03-14 | 8 | 52 | 0 | 8 | 2 | 142 |
+| 360d | 2025-09-15 | 67 | 74 | 0 | 14 | 2 | 1030 |
+| last720d | 2024-09-20 | 67 | 74 | 0 | 14 | 2 | 1047 |
 
 ## Release assets
 
@@ -41,33 +72,14 @@ x install lazyworktree
 | [lazyworktree_Windows_arm64.zip](https://github.com/chmouel/lazyworktree/releases/download/v1.49.0/lazyworktree_Windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
 | [lazyworktree_Windows_x86_64.zip](https://github.com/chmouel/lazyworktree/releases/download/v1.49.0/lazyworktree_Windows_x86_64.zip) | 5.3 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 292 · **Forks**: 13 · **Open issues**: 16 · **Contributors**: 9
+Reported by **5** distros on [repology.org](https://repology.org/project/lazyworktree). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 67 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 2 · **Commits**: 1047
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 8 | 0 | 0 | 1 | 9 |
-| 90d | 2026-06-12 | 3 | 29 | 0 | 1 | 2 | 64 |
-| 360d | 2025-09-15 | 67 | 74 | 0 | 14 | 2 | 1030 |
-
-## Code size
-
-Total: **83,963** lines of code across **295** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 81,431 | 4,005 | 11,104 | 284 |
-| Css | 850 | 30 | 170 | 2 |
-| Html | 577 | 0 | 9 | 2 |
-| Sh | 370 | 40 | 91 | 5 |
-| Yaml | 234 | 441 | 51 | 2 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.49.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.49.0` | ✅ latest |
 
 ## Improve this data
 
@@ -78,4 +90,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:25:13Z._
