@@ -1,0 +1,67 @@
+- repo: aur
+  srcname: lazyworktree-bin
+  binname: lazyworktree-bin
+  visiblename: lazyworktree-bin
+  version: 1.49.0
+  origversion: 1.49.0-1
+  status: newest
+  summary: lazyworktree - A TUI tool to manage git worktrees
+  maintainers:
+    - chmouel@aur
+  licenses:
+    - Apache 2.0
+- repo: freebsd
+  srcname: devel/lazyworktree
+  binname: lazyworktree
+  visiblename: devel/lazyworktree
+  version: 1.49.0
+  origversion: 1.49.0_2
+  status: newest
+  summary: Terminal UI for managing Git worktrees
+  maintainers:
+    - olgeni@freebsd.org
+  categories:
+    - devel
+- repo: nix_stable_26_05
+  srcname: lazyworktree
+  visiblename: lazyworktree
+  version: 1.46.0
+  origversion: null
+  status: outdated
+  summary: BubbleTea-based Terminal User Interface for efficient Git worktree management
+  maintainers:
+    - chmouel@chmouel.com
+    - vincent@sbr.pm
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: lazyworktree
+  visiblename: lazyworktree
+  version: 1.49.0
+  origversion: null
+  status: newest
+  summary: BubbleTea-based Terminal User Interface for efficient Git worktree management
+  maintainers:
+    - chmouel@chmouel.com
+    - vincent@sbr.pm
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: lazyworktree
+  binnames:
+    - lazyworktree
+    - lazyworktree-debuginfo
+    - lazyworktree-debugsource
+    - lazyworktree-bash-completion
+    - lazyworktree-fish-completion
+    - lazyworktree-zsh-completion
+  visiblename: lazyworktree
+  version: 1.49.0
+  origversion: 1.49.0-1.2
+  status: newest
+  summary: Easy Git worktree management for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
