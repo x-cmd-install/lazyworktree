@@ -4,7 +4,7 @@
 
 Easy Git worktree management CLI and TUI for the terminal.
 
-![lazyworktree](https://repo.x-cmd.io/lazyworktree.svg)
+[![x-cmd/install — lazyworktree Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazyworktree.svg)](https://x-cmd.com/install/lazyworktree)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **85,819** lines of code across **302** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 297 · **Forks**: 13 · **Open issues**: 16 · **Contributors**: 9
+- **Stars**: 297 · **Forks**: 13 · **Open issues**: 17 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 76 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 2 · **Commits**: 1051
+- **Releases**: 68 · **Merged PRs**: 76 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 3 · **Commits**: 1051
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 9 | 0 | 0 | 1 | 12 |
-| last60d | 2026-07-20 | 2 | 17 | 0 | 0 | 1 | 21 |
-| 90d | 2026-06-20 | 4 | 30 | 0 | 1 | 2 | 61 |
-| last180d | 2026-03-22 | 8 | 54 | 0 | 6 | 2 | 139 |
-| 360d | 2025-09-23 | 68 | 76 | 0 | 14 | 2 | 1034 |
-| last720d | 2024-09-28 | 68 | 76 | 0 | 14 | 2 | 1051 |
+| 30d | 2026-08-21 | 1 | 9 | 0 | 0 | 2 | 10 |
+| last60d | 2026-07-22 | 1 | 15 | 0 | 0 | 2 | 18 |
+| 90d | 2026-06-22 | 4 | 29 | 0 | 1 | 3 | 44 |
+| last180d | 2026-03-24 | 8 | 54 | 0 | 6 | 3 | 129 |
+| 360d | 2025-09-25 | 68 | 76 | 0 | 14 | 3 | 1034 |
+| last720d | 2024-09-30 | 68 | 76 | 0 | 14 | 3 | 1051 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:30:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:46:16Z._
