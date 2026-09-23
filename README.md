@@ -4,7 +4,7 @@
 
 Easy Git worktree management CLI and TUI for the terminal.
 
-[![x-cmd/install — lazyworktree Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazyworktree.svg)](https://x-cmd.com/install/lazyworktree)
+[![x-cmd/install — lazyworktree Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lazyworktree.svg)](https://x-cmd.com/install/lazyworktree)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **85,819** lines of code across **302** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 298 · **Forks**: 13 · **Open issues**: 17 · **Contributors**: 9
+- **Stars**: 299 · **Forks**: 13 · **Open issues**: 17 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **85,819** lines of code across **302** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 11 | 0 | 1 | 1 | 14 |
-| last60d | 2026-07-24 | 2 | 17 | 0 | 1 | 1 | 22 |
-| 90d | 2026-06-24 | 4 | 28 | 0 | 2 | 2 | 48 |
-| last180d | 2026-03-26 | 9 | 56 | 0 | 7 | 2 | 133 |
-| 360d | 2025-09-27 | 69 | 78 | 0 | 15 | 2 | 1038 |
-| last720d | 2024-10-02 | 69 | 78 | 0 | 15 | 2 | 1055 |
+| 30d | 2026-08-24 | 2 | 10 | 0 | 1 | 1 | 14 |
+| last60d | 2026-07-25 | 2 | 17 | 0 | 1 | 1 | 22 |
+| 90d | 2026-06-25 | 4 | 27 | 0 | 2 | 2 | 48 |
+| last180d | 2026-03-27 | 9 | 56 | 0 | 7 | 2 | 133 |
+| 360d | 2025-09-28 | 69 | 78 | 0 | 15 | 2 | 1038 |
+| last720d | 2024-10-03 | 69 | 78 | 0 | 15 | 2 | 1055 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:40:14Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:36:01Z._
