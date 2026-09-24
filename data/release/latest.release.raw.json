@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5546267,
       "digest": "sha256:1caa4c77328b511c7b09cba0a75fb64c7a16f17572a82d1c0749887bceab338c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-21T13:13:38Z",
       "updated_at": "2026-09-21T13:13:39Z",
       "browser_download_url": "https://github.com/chmouel/lazyworktree/releases/download/v1.50.1/lazyworktree-1.50.1-1.x86_64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5208399,
       "digest": "sha256:871d91f507224309acfaf7f6a7a1f33c4a0d4bb944b5394d2f12e24ea7d5196a",
-      "download_count": 11,
+      "download_count": 20,
       "created_at": "2026-09-21T13:13:38Z",
       "updated_at": "2026-09-21T13:13:38Z",
       "browser_download_url": "https://github.com/chmouel/lazyworktree/releases/download/v1.50.1/lazyworktree_1.50.1_aarch64.apk"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5545046,
       "digest": "sha256:490a16c4b3d4f3b73f51541b3effa91c44b20433e4f2a7ac3ff21c3f4ecfc688",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-21T13:13:39Z",
       "updated_at": "2026-09-21T13:13:40Z",
       "browser_download_url": "https://github.com/chmouel/lazyworktree/releases/download/v1.50.1/lazyworktree_1.50.1_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 10802812,
       "digest": "sha256:443e2bb01ca07ab2d6dae8ef5f992827c84436dad5925543bb669e7839e3ce37",
-      "download_count": 39,
+      "download_count": 52,
       "created_at": "2026-09-21T13:13:38Z",
       "updated_at": "2026-09-21T13:13:39Z",
       "browser_download_url": "https://github.com/chmouel/lazyworktree/releases/download/v1.50.1/lazyworktree_Darwin_all.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5548029,
       "digest": "sha256:4f5bf2ed58115fb9d40fc6850c267d503b313616ef170a216e9bb58c37f01dae",
-      "download_count": 24,
+      "download_count": 34,
       "created_at": "2026-09-21T13:13:36Z",
       "updated_at": "2026-09-21T13:13:37Z",
       "browser_download_url": "https://github.com/chmouel/lazyworktree/releases/download/v1.50.1/lazyworktree_Linux_x86_64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5719610,
       "digest": "sha256:7651567dc17cf0b2dc11bf179671a09b6516599addb55d36e775515dcaf255af",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-21T13:13:36Z",
       "updated_at": "2026-09-21T13:13:37Z",
       "browser_download_url": "https://github.com/chmouel/lazyworktree/releases/download/v1.50.1/lazyworktree_Windows_x86_64.zip"
