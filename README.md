@@ -42,18 +42,18 @@ Total: **85,819** lines of code across **302** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 78 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 1055
+- **Releases**: 69 · **Merged PRs**: 78 · **Open PRs**: 1 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 1055
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 2 | 9 | 0 | 1 | 1 | 13 |
-| last60d | 2026-07-30 | 2 | 15 | 0 | 1 | 1 | 20 |
-| 90d | 2026-06-30 | 4 | 26 | 0 | 2 | 2 | 42 |
-| last180d | 2026-04-01 | 8 | 53 | 0 | 7 | 2 | 129 |
-| 360d | 2025-10-03 | 69 | 78 | 0 | 15 | 2 | 1038 |
-| last720d | 2024-10-08 | 69 | 78 | 0 | 15 | 2 | 1055 |
+| 30d | 2026-08-30 | 2 | 9 | 1 | 1 | 1 | 13 |
+| last60d | 2026-07-31 | 2 | 15 | 1 | 1 | 1 | 20 |
+| 90d | 2026-07-01 | 4 | 25 | 1 | 1 | 2 | 42 |
+| last180d | 2026-04-02 | 8 | 53 | 1 | 7 | 2 | 129 |
+| 360d | 2025-10-04 | 69 | 78 | 1 | 15 | 2 | 1038 |
+| last720d | 2024-10-09 | 69 | 78 | 1 | 15 | 2 | 1055 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:12:04Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:34:49Z._
