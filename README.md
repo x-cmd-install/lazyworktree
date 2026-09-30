@@ -38,7 +38,7 @@ Total: **85,819** lines of code across **302** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 299 · **Forks**: 13 · **Open issues**: 17 · **Contributors**: 9
+- **Stars**: 299 · **Forks**: 12 · **Open issues**: 17 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **85,819** lines of code across **302** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 9 | 1 | 1 | 1 | 13 |
-| last60d | 2026-07-31 | 2 | 15 | 1 | 1 | 1 | 20 |
-| 90d | 2026-07-01 | 4 | 25 | 1 | 1 | 2 | 42 |
-| last180d | 2026-04-02 | 8 | 53 | 1 | 7 | 2 | 129 |
-| 360d | 2025-10-04 | 69 | 78 | 1 | 15 | 2 | 1038 |
-| last720d | 2024-10-09 | 69 | 78 | 1 | 15 | 2 | 1055 |
+| 30d | 2026-08-31 | 2 | 8 | 1 | 1 | 1 | 13 |
+| last60d | 2026-08-01 | 2 | 15 | 1 | 1 | 1 | 20 |
+| 90d | 2026-07-02 | 4 | 25 | 1 | 1 | 2 | 42 |
+| last180d | 2026-04-03 | 8 | 53 | 1 | 7 | 2 | 129 |
+| 360d | 2025-10-05 | 69 | 78 | 1 | 15 | 2 | 1038 |
+| last720d | 2024-10-10 | 69 | 78 | 1 | 15 | 2 | 1055 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:34:49Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:23:20Z._
