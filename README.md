@@ -14,11 +14,11 @@ x install lazyworktree
 
 ## Code insight
 
-Total: **85,819** lines of code across **302** files in the top 5 languages.
+Total: **86,518** lines of code across **303** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 83,286 | 4,194 | 11,420 | 291 |
+| Go | 83,985 | 4,222 | 11,510 | 292 |
 | Css | 850 | 30 | 170 | 2 |
 | Html | 577 | 0 | 9 | 2 |
 | Sh | 370 | 40 | 91 | 5 |
@@ -33,7 +33,7 @@ Total: **85,819** lines of code across **302** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.50.1` (2026-09-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-10-08
 - **Assets in release**: 12
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **85,819** lines of code across **302** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 78 · **Open PRs**: 1 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 1055
+- **Releases**: 69 · **Merged PRs**: 78 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 2 · **Commits**: 1064
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 4 | 1 | 1 | 0 | 8 |
-| last60d | 2026-08-09 | 2 | 14 | 1 | 1 | 1 | 18 |
-| 90d | 2026-07-10 | 3 | 24 | 1 | 1 | 1 | 32 |
-| last180d | 2026-04-11 | 8 | 53 | 1 | 7 | 2 | 123 |
-| 360d | 2025-10-13 | 69 | 78 | 1 | 15 | 2 | 1038 |
-| last720d | 2024-10-18 | 69 | 78 | 1 | 15 | 2 | 1055 |
+| 30d | 2026-09-09 | 2 | 4 | 0 | 1 | 0 | 17 |
+| last60d | 2026-08-10 | 2 | 12 | 0 | 1 | 1 | 27 |
+| 90d | 2026-07-11 | 3 | 24 | 0 | 1 | 1 | 41 |
+| last180d | 2026-04-12 | 8 | 53 | 0 | 7 | 2 | 132 |
+| 360d | 2025-10-14 | 69 | 78 | 0 | 15 | 2 | 1047 |
+| last720d | 2024-10-19 | 69 | 78 | 0 | 15 | 2 | 1064 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:53:18Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T05:56:10Z._
