@@ -48,12 +48,12 @@ Total: **86,519** lines of code across **303** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 3 | 0 | 0 | 0 | 13 |
-| last60d | 2026-08-20 | 2 | 12 | 0 | 1 | 1 | 28 |
-| 90d | 2026-07-21 | 3 | 19 | 0 | 1 | 1 | 37 |
-| last180d | 2026-04-22 | 8 | 49 | 0 | 6 | 2 | 128 |
-| 360d | 2025-10-24 | 69 | 79 | 0 | 15 | 2 | 1051 |
-| last720d | 2024-10-29 | 69 | 79 | 0 | 15 | 2 | 1068 |
+| 30d | 2026-09-20 | 1 | 3 | 0 | 0 | 0 | 13 |
+| last60d | 2026-08-21 | 2 | 12 | 0 | 1 | 1 | 28 |
+| 90d | 2026-07-22 | 2 | 18 | 0 | 1 | 1 | 37 |
+| last180d | 2026-04-23 | 8 | 49 | 0 | 6 | 2 | 128 |
+| 360d | 2025-10-25 | 69 | 79 | 0 | 15 | 2 | 1051 |
+| last720d | 2024-10-30 | 69 | 79 | 0 | 15 | 2 | 1068 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:26:27Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:37:05Z._
