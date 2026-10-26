@@ -38,7 +38,7 @@ Total: **90,905** lines of code across **314** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 310 · **Forks**: 13 · **Open issues**: 18 · **Contributors**: 9
+- **Stars**: 312 · **Forks**: 13 · **Open issues**: 18 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **90,905** lines of code across **314** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 5 | 0 | 0 | 1 | 26 |
-| last60d | 2026-08-26 | 3 | 14 | 0 | 1 | 2 | 41 |
-| 90d | 2026-07-27 | 3 | 21 | 0 | 1 | 2 | 50 |
-| last180d | 2026-04-28 | 9 | 51 | 0 | 6 | 2 | 141 |
-| 360d | 2025-10-30 | 70 | 83 | 0 | 16 | 2 | 1064 |
-| last720d | 2024-11-04 | 70 | 83 | 0 | 16 | 2 | 1081 |
+| 30d | 2026-09-26 | 1 | 5 | 0 | 0 | 1 | 26 |
+| last60d | 2026-08-27 | 3 | 14 | 0 | 1 | 2 | 39 |
+| 90d | 2026-07-28 | 3 | 21 | 0 | 1 | 2 | 47 |
+| last180d | 2026-04-29 | 8 | 51 | 0 | 6 | 2 | 136 |
+| 360d | 2025-10-31 | 70 | 83 | 0 | 16 | 2 | 1064 |
+| last720d | 2024-11-05 | 70 | 83 | 0 | 16 | 2 | 1081 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Total: **90,905** lines of code across **314** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/lazyworktree). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/lazyworktree). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,4 +90,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:27:45Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:30:31Z._
