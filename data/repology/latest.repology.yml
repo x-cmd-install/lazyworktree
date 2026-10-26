@@ -14,9 +14,9 @@
   srcname: devel/lazyworktree
   binname: lazyworktree
   visiblename: devel/lazyworktree
-  version: 1.50.1
-  origversion: 1.50.1_2
-  status: outdated
+  version: 1.51.0
+  origversion: null
+  status: newest
   summary: Terminal UI for managing Git worktrees
   maintainers:
     - olgeni@freebsd.org
