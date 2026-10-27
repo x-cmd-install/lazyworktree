@@ -57,9 +57,9 @@
     - lazyworktree-fish-completion
     - lazyworktree-zsh-completion
   visiblename: lazyworktree
-  version: 1.50.1
-  origversion: 1.50.1-1.1
-  status: outdated
+  version: 1.51.0
+  origversion: 1.51.0-1.1
+  status: newest
   summary: Easy Git worktree management for the terminal
   licenses:
     - Apache-2.0
