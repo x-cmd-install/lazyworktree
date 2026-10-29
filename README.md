@@ -14,15 +14,15 @@ x install lazyworktree
 
 ## Code insight
 
-Total: **90,905** lines of code across **314** files in the top 5 languages.
+Total: **92,942** lines of code across **327** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 88,373 | 4,459 | 11,924 | 303 |
+| Go | 90,395 | 4,604 | 12,139 | 316 |
 | Css | 850 | 30 | 170 | 2 |
 | Html | 577 | 0 | 9 | 2 |
 | Sh | 370 | 40 | 91 | 5 |
-| Yaml | 234 | 444 | 52 | 2 |
+| Yaml | 249 | 457 | 55 | 2 |
 
 ## Source
 
@@ -32,54 +32,54 @@ Total: **90,905** lines of code across **314** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.51.0` (2026-10-22)
-- **Last commit**: 2026-10-26
+- **Latest**: `v1.52.0` (2026-10-28)
+- **Last commit**: 2026-10-28
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 312 · **Forks**: 13 · **Open issues**: 18 · **Contributors**: 9
+- **Stars**: 313 · **Forks**: 14 · **Open issues**: 19 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 84 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 2 · **Commits**: 1082
+- **Releases**: 71 · **Merged PRs**: 86 · **Open PRs**: 1 · **Closed issues**: 16 · **Open issues**: 3 · **Commits**: 1093
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 6 | 0 | 0 | 1 | 27 |
-| last60d | 2026-08-29 | 3 | 15 | 0 | 1 | 2 | 40 |
-| 90d | 2026-07-30 | 3 | 21 | 0 | 1 | 2 | 48 |
-| last180d | 2026-05-01 | 8 | 51 | 0 | 6 | 2 | 137 |
-| 360d | 2025-11-02 | 70 | 84 | 0 | 16 | 2 | 1065 |
-| last720d | 2024-11-07 | 70 | 84 | 0 | 16 | 2 | 1082 |
+| 30d | 2026-09-29 | 2 | 8 | 1 | 0 | 2 | 38 |
+| last60d | 2026-08-30 | 4 | 17 | 1 | 1 | 3 | 51 |
+| 90d | 2026-07-31 | 4 | 23 | 1 | 1 | 3 | 59 |
+| last180d | 2026-05-02 | 9 | 53 | 1 | 6 | 3 | 148 |
+| 360d | 2025-11-03 | 71 | 86 | 1 | 16 | 3 | 1076 |
+| last720d | 2024-11-08 | 71 | 86 | 1 | 16 | 3 | 1093 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/checksums.txt) | 1.0 KiB | `other` |
-| [lazyworktree-1.51.0-1.aarch64.rpm](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree-1.51.0-1.aarch64.rpm) | 4.8 MiB | `runtime/rpm/aarch64` |
-| [lazyworktree-1.51.0-1.x86_64.rpm](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree-1.51.0-1.x86_64.rpm) | 5.4 MiB | `runtime/rpm/x86_64` |
-| [lazyworktree_1.51.0_aarch64.apk](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree_1.51.0_aarch64.apk) | 5.0 MiB | `other` |
-| [lazyworktree_1.51.0_amd64.deb](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree_1.51.0_amd64.deb) | 5.4 MiB | `runtime/deb/amd64` |
-| [lazyworktree_1.51.0_arm64.deb](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree_1.51.0_arm64.deb) | 4.8 MiB | `runtime/deb/arm64` |
-| [lazyworktree_1.51.0_x86_64.apk](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree_1.51.0_x86_64.apk) | 5.6 MiB | `other` |
-| [lazyworktree_Darwin_all.tar.gz](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree_Darwin_all.tar.gz) | 10.4 MiB | `native/darwin/x64` |
-| [lazyworktree_Linux_arm64.tar.gz](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree_Linux_arm64.tar.gz) | 4.9 MiB | `native/linux/arm64` |
-| [lazyworktree_Linux_x86_64.tar.gz](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree_Linux_x86_64.tar.gz) | 5.4 MiB | `native/linux/x64` |
-| [lazyworktree_Windows_arm64.zip](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree_Windows_arm64.zip) | 4.9 MiB | `native/win/arm64` |
-| [lazyworktree_Windows_x86_64.zip](https://github.com/chmouel/lazyworktree/releases/download/v1.51.0/lazyworktree_Windows_x86_64.zip) | 5.5 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/checksums.txt) | 1.0 KiB | `other` |
+| [lazyworktree-1.52.0-1.aarch64.rpm](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree-1.52.0-1.aarch64.rpm) | 5.0 MiB | `runtime/rpm/aarch64` |
+| [lazyworktree-1.52.0-1.x86_64.rpm](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree-1.52.0-1.x86_64.rpm) | 5.5 MiB | `runtime/rpm/x86_64` |
+| [lazyworktree_1.52.0_aarch64.apk](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_1.52.0_aarch64.apk) | 5.1 MiB | `other` |
+| [lazyworktree_1.52.0_amd64.deb](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_1.52.0_amd64.deb) | 5.4 MiB | `runtime/deb/amd64` |
+| [lazyworktree_1.52.0_arm64.deb](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_1.52.0_arm64.deb) | 4.9 MiB | `runtime/deb/arm64` |
+| [lazyworktree_1.52.0_x86_64.apk](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_1.52.0_x86_64.apk) | 5.6 MiB | `other` |
+| [lazyworktree_Darwin_all.tar.gz](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_Darwin_all.tar.gz) | 10.5 MiB | `native/darwin/x64` |
+| [lazyworktree_Linux_arm64.tar.gz](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_Linux_arm64.tar.gz) | 4.9 MiB | `native/linux/arm64` |
+| [lazyworktree_Linux_x86_64.tar.gz](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_Linux_x86_64.tar.gz) | 5.4 MiB | `native/linux/x64` |
+| [lazyworktree_Windows_arm64.zip](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_Windows_arm64.zip) | 5.0 MiB | `native/win/arm64` |
+| [lazyworktree_Windows_x86_64.zip](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_Windows_x86_64.zip) | 5.5 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/lazyworktree). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/lazyworktree). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Nix unstable | `1.50.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.51.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.51.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -90,4 +90,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:24:22Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:33:56Z._
