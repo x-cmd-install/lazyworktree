@@ -2,8 +2,8 @@
   srcname: lazyworktree-bin
   binname: lazyworktree-bin
   visiblename: lazyworktree-bin
-  version: 1.51.0
-  origversion: 1.51.0-1
+  version: 1.52.0
+  origversion: 1.52.0-1
   status: newest
   summary: lazyworktree - A TUI tool to manage git worktrees
   maintainers:
@@ -16,7 +16,7 @@
   visiblename: devel/lazyworktree
   version: 1.51.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal UI for managing Git worktrees
   maintainers:
     - olgeni@freebsd.org
@@ -59,7 +59,7 @@
   visiblename: lazyworktree
   version: 1.51.0
   origversion: 1.51.0-1.1
-  status: newest
+  status: outdated
   summary: Easy Git worktree management for the terminal
   licenses:
     - Apache-2.0
