@@ -33,7 +33,7 @@ Total: **92,942** lines of code across **327** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.52.0` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-02
 - **Assets in release**: 12
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **92,942** lines of code across **327** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 86 · **Open PRs**: 1 · **Closed issues**: 16 · **Open issues**: 3 · **Commits**: 1093
+- **Releases**: 71 · **Merged PRs**: 87 · **Open PRs**: 1 · **Closed issues**: 16 · **Open issues**: 3 · **Commits**: 1094
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 8 | 1 | 0 | 2 | 29 |
-| last60d | 2026-09-03 | 4 | 15 | 1 | 1 | 3 | 46 |
-| 90d | 2026-08-04 | 4 | 22 | 1 | 1 | 3 | 58 |
-| last180d | 2026-05-06 | 9 | 49 | 1 | 5 | 3 | 142 |
-| 360d | 2025-11-07 | 71 | 86 | 1 | 16 | 3 | 1076 |
-| last720d | 2024-11-12 | 71 | 86 | 1 | 16 | 3 | 1093 |
+| 30d | 2026-10-04 | 2 | 9 | 1 | 0 | 2 | 30 |
+| last60d | 2026-09-04 | 4 | 16 | 1 | 1 | 2 | 47 |
+| 90d | 2026-08-05 | 4 | 23 | 1 | 1 | 3 | 59 |
+| last180d | 2026-05-07 | 9 | 50 | 1 | 5 | 3 | 143 |
+| 360d | 2025-11-08 | 71 | 87 | 1 | 16 | 3 | 1077 |
+| last720d | 2024-11-13 | 71 | 87 | 1 | 16 | 3 | 1094 |
 
 ## Release assets
 
@@ -74,12 +74,12 @@ Total: **92,942** lines of code across **327** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/lazyworktree). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/lazyworktree). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Nix unstable | `1.50.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.51.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.52.0` | ✅ latest |
 
 ## Improve this data
 
@@ -90,4 +90,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:48:09Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:29:34Z._
