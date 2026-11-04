@@ -1,15 +1,3 @@
-- repo: nix_stable_26_05
-  srcname: lazyworktree
-  visiblename: lazyworktree
-  version: 1.46.0
-  origversion: null
-  status: outdated
-  summary: BubbleTea-based Terminal User Interface for efficient Git worktree management
-  maintainers:
-    - chmouel@chmouel.com
-    - vincent@sbr.pm
-  licenses:
-    - Apache-2.0
 - repo: aur
   srcname: lazyworktree-bin
   binname: lazyworktree-bin
@@ -34,12 +22,24 @@
     - olgeni@freebsd.org
   categories:
     - devel
+- repo: nix_stable_26_05
+  srcname: lazyworktree
+  visiblename: lazyworktree
+  version: 1.46.0
+  origversion: null
+  status: outdated
+  summary: BubbleTea-based Terminal User Interface for efficient Git worktree management
+  maintainers:
+    - chmouel@chmouel.com
+    - vincent@sbr.pm
+  licenses:
+    - Apache-2.0
 - repo: nix_unstable
   srcname: lazyworktree
   visiblename: lazyworktree
-  version: 1.50.1
+  version: 1.52.0
   origversion: null
-  status: outdated
+  status: newest
   summary: BubbleTea-based Terminal User Interface for efficient Git worktree management
   maintainers:
     - chmouel@chmouel.com
