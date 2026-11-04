@@ -48,12 +48,12 @@ Total: **92,942** lines of code across **327** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 9 | 1 | 0 | 2 | 30 |
-| last60d | 2026-09-04 | 4 | 16 | 1 | 1 | 2 | 47 |
-| 90d | 2026-08-05 | 4 | 23 | 1 | 1 | 3 | 59 |
-| last180d | 2026-05-07 | 9 | 50 | 1 | 5 | 3 | 143 |
-| 360d | 2025-11-08 | 71 | 87 | 1 | 16 | 3 | 1077 |
-| last720d | 2024-11-13 | 71 | 87 | 1 | 16 | 3 | 1094 |
+| 30d | 2026-10-05 | 2 | 9 | 1 | 0 | 2 | 30 |
+| last60d | 2026-09-05 | 4 | 15 | 1 | 1 | 2 | 47 |
+| 90d | 2026-08-06 | 4 | 23 | 1 | 1 | 3 | 59 |
+| last180d | 2026-05-08 | 9 | 50 | 1 | 5 | 3 | 143 |
+| 360d | 2025-11-09 | 71 | 87 | 1 | 16 | 3 | 1077 |
+| last720d | 2024-11-14 | 71 | 87 | 1 | 16 | 3 | 1094 |
 
 ## Release assets
 
@@ -74,11 +74,11 @@ Total: **92,942** lines of code across **327** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/lazyworktree). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/lazyworktree). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `1.50.1` | ⚠️ outdated |
+| Nix unstable | `1.52.0` | ✅ latest |
 | openSUSE Tumbleweed | `1.52.0` | ✅ latest |
 
 ## Improve this data
@@ -90,4 +90,4 @@ Install metadata for lazyworktree lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:29:34Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:04:31Z._
