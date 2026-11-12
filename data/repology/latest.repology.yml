@@ -15,7 +15,7 @@
   binname: lazyworktree
   visiblename: devel/lazyworktree
   version: 1.51.0
-  origversion: null
+  origversion: 1.51.0_1
   status: outdated
   summary: Terminal UI for managing Git worktrees
   maintainers:
