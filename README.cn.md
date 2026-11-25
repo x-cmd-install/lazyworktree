@@ -48,12 +48,12 @@ x install lazyworktree
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 6 | 1 | 0 | 1 | 3 |
-| last60d | 2026-09-25 | 2 | 11 | 1 | 0 | 2 | 41 |
-| 90d | 2026-08-26 | 4 | 20 | 1 | 1 | 3 | 55 |
-| last180d | 2026-05-28 | 8 | 48 | 1 | 4 | 3 | 127 |
-| 360d | 2025-11-29 | 71 | 89 | 1 | 16 | 3 | 1079 |
-| last720d | 2024-12-04 | 71 | 89 | 1 | 16 | 3 | 1096 |
+| 30d | 2026-10-26 | 1 | 5 | 1 | 0 | 1 | 3 |
+| last60d | 2026-09-26 | 2 | 11 | 1 | 0 | 2 | 41 |
+| 90d | 2026-08-27 | 4 | 20 | 1 | 1 | 3 | 55 |
+| last180d | 2026-05-29 | 8 | 48 | 1 | 4 | 3 | 127 |
+| 360d | 2025-11-30 | 71 | 89 | 1 | 16 | 3 | 1079 |
+| last720d | 2024-12-05 | 71 | 89 | 1 | 16 | 3 | 1096 |
 
 ## Release 资产
 
@@ -72,15 +72,6 @@ x install lazyworktree
 | [lazyworktree_Windows_arm64.zip](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_Windows_arm64.zip) | 5.0 MiB | `native/win/arm64` |
 | [lazyworktree_Windows_x86_64.zip](https://github.com/chmouel/lazyworktree/releases/download/v1.52.0/lazyworktree_Windows_x86_64.zip) | 5.5 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/lazyworktree) 上共有 **5** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `1.52.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.52.0` | ✅ latest |
-
 ## 改进这些数据
 
 lazyworktree 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lazyworktree` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -90,4 +81,4 @@ lazyworktree 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:43:42Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:15:28Z._
